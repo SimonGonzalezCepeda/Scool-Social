@@ -167,7 +167,9 @@ return [
          * Package Service Providers...
          */
 
-        //
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
+        Scool\Social\Notifications\Providers\NotificationServiceProvider::class,
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
 
         /*
          * Application Service Providers...

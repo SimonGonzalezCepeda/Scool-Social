@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "paths":[
+    "../../acacha/l5-repository",
+    "../../acacha/stateful-eloquent",
+    "../../Scool-Social-Notification",
+    "../../Scool-Social-Internalmsn",
+    "../../Scool-Social-Todos"
+  ]
+}
